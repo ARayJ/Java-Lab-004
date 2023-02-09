@@ -1,3 +1,10 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Aaron Johnson
+ *
+ * @since Version 1.0
+ */
 import java.lang.Math;
 public class SimpleMethod {
     // Put your method code here

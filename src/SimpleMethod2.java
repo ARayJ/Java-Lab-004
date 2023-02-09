@@ -1,3 +1,10 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Aaron Johnson
+ *
+ * @since Version 1.0
+ */
 import java.util.Scanner;
 public class SimpleMethod2 {
     // Put your method code here, takes 1 integer, squares it, returns the integer result of the square.
