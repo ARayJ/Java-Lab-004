@@ -18,13 +18,13 @@ public class SimpleMethod3 {
     */
     public static int square(int number) {
         // Put your code here
-        int b = (int)Math.pow(number, number);
+        int b = (int)Math.pow(number, 2.0);
         return b;
     }
 
     public static double square2(double number) {
          //Put your code here
-        double g = Math.pow(number, number);
+        double g = Math.pow(number, 2.0);
         return g;
     }
 
